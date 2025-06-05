@@ -7,10 +7,12 @@
     <div class="about-container">
       <div class="display">
         <div class="title">
-          ABOUT ME
+          <h1 class="title" text-align="center">
+            ABOUT ME
+          </h1>
         </div>
         <div class="text__container__p1">
-          <p>hey! My name is <br LIAM /></p>
+          <p>hey! My name is ></p>
       </div>
         <div class="text-about-me">
           <article>
