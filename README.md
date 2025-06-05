@@ -1,7 +1,7 @@
 <img 
   src="./assets/Intro.gif"
-  height="100"
    />
+    <!--animation="fadeIn"-->
 
 
 <body>
