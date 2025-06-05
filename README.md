@@ -7,16 +7,18 @@
     <div class="about-container">
       <div class="display">
         <div class="title">
-          <h1 class="title" text-align="center">
+          <h1>
             ABOUT ME
           </h1>
         </div>
         <div class="text__container__p1">
-          <p>hey! My name is ></p>
+          <p>hey! My name is <strong>LIAM</strong></p>
+          <p>I am 17 years old</p>
       </div>
         <div class="text-about-me">
           <article>
            <div class="text-container">
+             <h3>🌎 Brasil</h3>
              <h3>👨‍🎓 Computer Science Student</h3>
              <h3>😼 Japanese Culture Enjoyer</h3>
              <h3>🍵 Tea over any drink</h3>
