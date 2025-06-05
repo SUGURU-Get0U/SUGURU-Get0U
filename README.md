@@ -3,6 +3,6 @@
 <a href="https://instagram.com">]
   <img
     height="50"
-    src="../assets/instagram-logo.png"
+    src="./assets/instagram-logo.png"
     />
 <a/>
