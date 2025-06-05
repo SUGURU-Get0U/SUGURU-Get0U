@@ -2,6 +2,7 @@
 
 <a href="https://instagram.com">]
   <img
-    src=""
+    height="50"
+    src="../assets/instagram-logo.png"
     />
 <a/>
