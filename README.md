@@ -1,12 +1,8 @@
 <img 
-  src="./assets/Intro.gif
-  text=Hey Everyone💡&
-  animation=fadeIn&
-  type=wave&
-  height=300
-  &section=header
-  &text=capsule%20render
-  &fontSize=90" />
+  src="./assets/Intro.gif"
+  animation="fadeIn"
+  height="100"
+   />
 
 
 <body>
