@@ -1,6 +1,5 @@
 <img 
   src="./assets/Intro.gif"
-  animation="fadeIn"
   height="100"
    />
 
