@@ -1,5 +1,7 @@
+<div class="intoImage"></div>
 <img 
   src="./assets/Intro.gif"
+  width="24"
    />
     <!--animation="fadeIn"-->
 
