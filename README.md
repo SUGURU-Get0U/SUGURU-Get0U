@@ -21,7 +21,10 @@ I am 17 years old
 [![X (Twitter)](./assets/X-Logo.png)](https://x.com) Twitter  
 
 ---
+# GITHUB STATS 😜
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUGURU-Get0U&show_icons=true&theme=tokyonight)
 
+---
 # SNAKE ANIMATION
 
 ![snake gif](https://raw.githubusercontent.com/SUGURU-Get0U/SUGURU-Get0U/output/github-contribution-grid-snake.svg)
