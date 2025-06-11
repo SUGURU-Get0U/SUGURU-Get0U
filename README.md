@@ -1,3 +1,7 @@
+<img
+    src="https://capsule-render.vercel.app/api?type=waving&text=こんにちは%20みんな!&color=0:BDBED3,100:2c2e47&height=300"
+  />
+
 # ABOUT ME
 
 Hey! My name is **LIAM**  
@@ -13,8 +17,8 @@ I am 17 years old
 
 # SOCIAL MEDIA
 
-[![Instagram](https://path-to-instagram-logo.png)](https://instagram.com) Instagram  
-[![X (Twitter)](https://path-to-x-logo.png)](https://x.com) Twitter  
+[![Instagram](./assets/instagram-logo.png)](https://instagram.com) Instagram  
+[![X (Twitter)](./assets/X-Logo.png)](https://x.com) Twitter  
 
 ---
 
