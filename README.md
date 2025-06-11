@@ -1,6 +1,6 @@
 <div class="banner">
   <img
-    src="https://capsule-render.vercel.app/api?&text=こんにちは みんな!&type=wave&color=0:BDBED3,100:2c2e47&height=300>
+    src="https://capsule-render.vercel.app/api?&text=こんにちは みんな!&color=0:BDBED3,100:2c2e47&height=300>
 </div>
 
 <div class="intoImage">
