@@ -1,9 +1,13 @@
-<div class="intoImage"></div>
-<img 
-  src="./assets/Intro.gif"
-  width="24"
-   />
-    <!--animation="fadeIn"-->
+<div class="banner">
+  <img src="https://capsule-render.vercel.app/api?&text=こんにちは みんな!&type=wave&color=0:BDBED3,100:2c2e47&height=300&section=header&text=capsule%20render&fontSize=90" />
+</div>
+
+<div class="intoImage">
+  <img align="right"
+    alt="Coding" 
+    width="400" src=>
+</div>
+
 
 
 <body>
