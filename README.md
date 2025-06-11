@@ -74,4 +74,8 @@
       </div>
     </div>
   </section>
+  <section id=#game class="cobrinha__safada">
+    ![Snake animation](https://github.com/SUGURU-Get0U/SUGURU-Get0U/blob/output/github-contribution-grid-snake.svg)
+  </section>
+          
 </body>
