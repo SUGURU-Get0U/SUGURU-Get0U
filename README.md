@@ -14,7 +14,7 @@
 <li>
     <b>大好き:</b>Green tea 🍵, OSU! 🎹, Zenless Zone Zero </li>
 <li>
-    <b>名は:</b>LIAM</li>
+    <b>教職:</b>RN I'am a college student</li>
 <li>
     <b>名は:</b>LIAM</li>
  
