@@ -9,16 +9,14 @@
         <img src="" align="right">
     </div>
 </div>
-<li>
-    <b>名は:</b>LIAM</li>
-<li>
-    <b>大好き:</b>Green tea 🍵, OSU! 🎹, Zenless Zone Zero </li>
-<li>
-    <b>教職:</b>RN I'am a college student</li>
-<li>
-    <b>名は:</b>LIAM</li>
- 
-# I am 17 years old
+## Personal Information:
+名は:LIAM\
+大好き:</b>Tea 🧋, J-pop 🎵, Zenless Zone Zero 🎮\
+教職:</b>Right now I'm a computer science B.C student\
+
+<br/>
+<br/>
+
 
 🌎 Brasil  
 👨‍🎓 Computer Science Student  
