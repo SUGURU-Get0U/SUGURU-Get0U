@@ -1,7 +1,5 @@
-<img
-    src="https://capsule-render.vercel.app/api?type=waving&text=こんにちは%20みんな!&color=0:BDBED3,100:2c2e47&height=300"
-  />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=こんにちは%20みんな)](https://git.io/typing-svg)
 <!--ABOUT ME SECTION-->
 <div>
     <h2 align="center"> ⛩ ようこそ俺の世界 ⛩</h2>
