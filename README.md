@@ -1,23 +1,21 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=3000&center=true&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%E3%81%BF%E3%82%93%E3%81%AA" alt="Typing SVG" /></a>) <br/>
+<div align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=3000&center=true&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%E3%81%BF%E3%82%93%E3%81%AA" alt="Typing SVG" /></a>)</div> <br/>
 <br/>
 <!--ABOUT ME SECTION-->
 <div>
     <h2 align="center"> ⛩ ようこそ俺の世界 ⛩</h2>
-    <div align="center">
-        <img src="" align="right">
-    </div>
 </div> <br/>
 
-# Personal Information: <br/>
-name: Liam <br/>
-Fun facts abt me: <br/>
-🌎 Brasil  <br/>
-👨‍🎓 Computer Science Student <br/> 
-😼 Japanese Culture Enjoyer <br/> 
-🍵 Tea over any drink  <br/>
-👨‍💻 FrontEnd Hackerman <br/> 
+# Personal Information: 
 <br/>
-<br/>
+    name: Liam <br/>
+    Fun facts abt me: <br/>
+    🌎 Brasil  <br/>
+    👨‍🎓 Computer Science Student <br/> 
+    😼 Japanese Culture Enjoyer <br/> 
+    🍵 Tea over any drink  <br/>
+    👨‍💻 FrontEnd Hackerman <br/> 
+    <br/>
+    <br/>
 ---
 
 # Programming languages
