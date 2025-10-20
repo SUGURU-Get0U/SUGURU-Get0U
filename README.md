@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=3000&center=true&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%E3%81%BF%E3%82%93%E3%81%AA)](https://git.io/typing-svg) <br/>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=3000&center=true&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%E3%81%BF%E3%82%93%E3%81%AA" alt="Typing SVG" /></a>) <br/>
 <br/>
 <!--ABOUT ME SECTION-->
 <div>
@@ -7,6 +7,7 @@
         <img src="" align="right">
     </div>
 </div> <br/>
+
 # Personal Information: <br/>
 name: Liam <br/>
 Fun facts abt me: <br/>
@@ -28,8 +29,8 @@ Fun facts abt me: <br/>
 
 # SOCIAL MEDIA 🏵️
 
-[![Instagram](./assets/instagram-logo.png)](https://instagram.com) Instagram  
-[![X (Twitter)](./assets/X-Logo.png)](https://x.com) Twitter  
+[![Instagram](./assets/instagram-logo.png)](https://instagram.com) Instagram  [![X (Twitter)](./assets/X-Logo.png)](https://x.com) Twitter 
+ 
 
 ---
 # GITHUB STATS 😜
