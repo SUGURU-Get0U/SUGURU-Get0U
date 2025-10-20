@@ -21,7 +21,9 @@ Fun facts abt me: <br/>
 <br/>
 
 # Programming languages
-[![React](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg)](https://react.dev/learn)
+<a href="https://react.dev/learn">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" alt="React" width="40" height="40"/>
+</a>
 
 ---
 
