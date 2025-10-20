@@ -22,7 +22,7 @@ Fun facts abt me: <br/>
 
 # Programming languages
 <a href="https://react.dev/learn">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </a>
 
 ---
