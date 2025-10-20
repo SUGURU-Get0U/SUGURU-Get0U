@@ -6,8 +6,8 @@
     <div align="center">
         <img src="" align="right">
     </div>
-</div>
-## Personal Information:
+</div> <br/>
+# Personal Information: <br/>
 name: Liam <br/>
 Fun facts abt me: <br/>
 🌎 Brasil  <br/>
@@ -17,6 +17,7 @@ Fun facts abt me: <br/>
 👨‍💻 FrontEnd Hackerman <br/> 
 <br/>
 <br/>
+---
 
 # Programming languages
 <a href="https://react.dev/learn">
@@ -35,6 +36,6 @@ Fun facts abt me: <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUGURU-Get0U&show_icons=true&theme=tokyonight)
 
 ---
-# SNAKE ANIMATION
+# My commits
 
 ![snake gif](https://raw.githubusercontent.com/SUGURU-Get0U/SUGURU-Get0U/output/github-contribution-grid-snake.svg)
