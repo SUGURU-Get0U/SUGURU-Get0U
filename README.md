@@ -1,11 +1,13 @@
 <div display="flex" flex-direction="column" align="center">
 <img align="right" width="500px" height="700px" src="./Assets/IMG_0071.jpeg" alt="Aventurine ult img">
+
+<h1 align="center">Wassup,I’m Liam 👋</h1>
+<h3 align="center">A Try-hard Computer science student that likes to play Violin, Piano, Study new Technologies and Languages!</h3>
 </div>
 
 <!--ABOUT ME SECTION-->
 
-<h1 align="center">Wassup,I’m Liam 👋</h1>
-<h3 align="center">A Try-hard Computer science student that likes to play Violin, Piano, Study new Technologies and Languages!</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suguru-get0u&label=Profile%20views&color=0e75b6&style=flat" alt="suguru-get0u" /> </p>
 
