@@ -1,5 +1,7 @@
+<div display="flex" flex-direction="column" align="center">
 <img align="right" width="500px" height="700px" src="./Assets/IMG_0071.jpeg" alt="Aventurine ult img">
->
+</div>
+
 <!--ABOUT ME SECTION-->
 
 <h1 align="center">Wassup,I’m Liam 👋</h1>
