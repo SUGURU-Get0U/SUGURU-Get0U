@@ -1,4 +1,4 @@
-<div align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=3000&center=true&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%E3%81%BF%E3%82%93%E3%81%AA" alt="Typing SVG" /></a>)</div> <br/>
+<div align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=3000&center=true&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%E3%81%BF%E3%82%93%E3%81%AA" alt="Typing SVG" /></a></div> <br/>
 <br/>
 <!--ABOUT ME SECTION-->
 
@@ -9,11 +9,7 @@
 
 - 🔭 I’m currently working on **Launching a python API w/ FLASK** <br/>
 
-- 🌱 I’m currently learning: <br/>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<p>Linux,</p>
-</a><br/> Kubernets, Java and machine learning libraries on python!** <br/>
+- 🌱 I’m currently learning:**Linux, Kubernets, Java and machine learning libraries on python!** <br/>
 
 - 💬 Ask me about **Honkai star rail ✨, Violin 🎻 and Tech stuff** <br/>
 
