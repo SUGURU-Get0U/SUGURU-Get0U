@@ -21,7 +21,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ellwangeredu" height="30" width="40" />
 </a>
 
-<a href="https://linkedin.com/in/eduardo de oliveira ellwanger" target="blank">
+<a href="https://linkedin.com/in/Eduardo Oliveira Ellwanger" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo de oliveira ellwanger" height="30" width="40" />
 </a>
 
