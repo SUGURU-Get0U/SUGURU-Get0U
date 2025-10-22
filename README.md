@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning:**Linux, Kubernets, Java and machine learning libraries on python!** <br/>
 
-<img align="right" width="45px" height="45px" src="" alt="Aventurine ult img">
+<img align="right" width="45px" height="45px" src="./Assets/IMG_0071.jpeg" alt="Aventurine ult img">
 
 - 💬 Ask me about **Honkai star rail ✨, Violin 🎻 and Tech stuff** <br/>
 
