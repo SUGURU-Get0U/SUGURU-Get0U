@@ -82,7 +82,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
 </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?usernameSUGURU-Get0U&show_icons=true&locale=en&layout=compact" alt="suguru-get0u" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suguru-get0u&show_icons=true&locale=en&layout=compact" alt="suguru-get0u" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suguru-get0u&show_icons=true&locale=en" alt="suguru-get0u" /></p>
 
