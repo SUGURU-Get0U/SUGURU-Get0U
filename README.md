@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./Assets/IMG_0071.jpeg" alt="Aventurine ult img" width="400"/>
+    <img src="./Assets/IMG_0071.jpeg" alt="Aventurine ult img" width="700"/>
     <h1>Wassup, I’m Liam 👋</h1>
     <h3>A Try-hard Computer Science student that likes to play Violin, Piano, Study new Technologies and Languages!</h3>
 </div>
