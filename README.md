@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./Assets/IMG_0071.jpeg" alt="Aventurine ult img" width="500" height="400"/>
+    <img src="https://capsule-render.vercel.app/api?type=wave&&color=0:009B3A,50:FEDD00,100:002776&height=300&section=header&text=capsule%20render&fontSize=90" />
     <h1>Wassup, I’m Liam 👋</h1>
     <h3>A Computer Science student that likes to play Violin, Guitar, Study new Technologies and Languages!</h3>
 </div>
