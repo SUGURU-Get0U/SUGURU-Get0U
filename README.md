@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./Assets/IMG_0071.jpeg" alt="Aventurine ult img" width="500" height="400"/>
     <h1>Wassup, I’m Liam 👋</h1>
-    <h3>A Try-hard Computer Science student that likes to play Violin, Piano, Study new Technologies and Languages!</h3>
+    <h3>A Computer Science student that likes to play Violin, Guitar, Study new Technologies and Languages!</h3>
 </div>
 
 ---
@@ -12,9 +12,9 @@
     <img src="https://komarev.com/ghpvc/?username=suguru-get0u&label=Profile%20views&color=0e75b6&style=flat" alt="suguru-get0u" /> 
 </p>
 
-- 🔭 I’m currently working on **Launching a Python API w/ FLASK**.
-- 🌱 I’m currently learning: **Linux, Kubernetes, Java, and Machine Learning libraries on Python!**
-- 💬 Ask me about **Honkai Star Rail ✨, Violin 🎻, and Tech stuff!**
+- 🔭 I’m currently working on **How to make a minecraft mod with Java**.
+- 🌱 I’m currently learning: **Linux, Kubernetes, Java**
+- 💬 Ask me about **Guitar 🎸, Japanese food 🥘, writing 📖 **
 - 📫 How to reach me: **edu.oellwanger@gmail.com**
 
 ---
@@ -64,9 +64,6 @@
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
