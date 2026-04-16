@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:009B3A,50:FEDD00,100:002776&height=300&section=header&text=capsule%20render&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:009B3A,50:FEDD00,100:002776&height=250&section=header" />
     <h1>Wassup, I’m Liam 👋</h1>
     <h3>A Computer Science student that likes to play Violin, Guitar, Study new Technologies and Languages!</h3>
 </div>
