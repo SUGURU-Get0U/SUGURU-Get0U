@@ -1,22 +1,26 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:009B3A,50:FEDD00,100:002776&height=250&section=header" />
-    <h1>Wassup, I’m Liam 👋</h1>
+    <h1>Wassup, I’m Edward 👋</h1>
     <h3>A Computer Science student that likes to play Violin, Guitar, Study new Technologies and Languages!</h3>
 </div>
 
 ---
 
-## 🚀 About Me
+## Who is Edward?
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=suguru-get0u&label=Profile%20views&color=0e75b6&style=flat" alt="suguru-get0u" /> 
-</p>
+``` yaml
+name: Eduard Ellwanger
+age: 18
+located_in: Brazil
+current_job: Infrastructure Intern
+education
 
 - 🔭 I’m currently working on **How to make a minecraft mod with Java**.
 - 🌱 I’m currently learning: **Linux, Kubernetes, Java**
 - 💬 Ask me about **Guitar 🎸, Japanese food 🥘, writing 📖 **
 - 📫 How to reach me: **edu.oellwanger@gmail.com**
 
+```
 ---
 
 ## 🔗 Connect with me
