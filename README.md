@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:009B3A,50:FEDD00,100:002776&height=250&section=header" />
-    <h1>Wassup, I’m Edward 👋</h1>
+    <h1>Wassup, I’m Liam 👋</h1>
     <h3>A Computer Science student that likes to play Violin, Guitar, Study new Technologies and Languages!</h3>
 </div>
 
@@ -13,11 +13,14 @@ name: Eduard Ellwanger
 age: 18
 located_in: Brazil
 current_job: Infrastructure Intern
-education
+education:
+[
+    "Computer Science Sophomore"
+]
 
-- 🔭 I’m currently working on **How to make a minecraft mod with Java**.
-- 🌱 I’m currently learning: **Linux, Kubernetes, Java**
-- 💬 Ask me about **Guitar 🎸, Japanese food 🥘, writing 📖 **
+current_working: How to make a minecraft mod with Java.
+current_learning: Linux, Kubernetes, Java
+Ask_me_about: **Guitar 🎸, Japanese food 🥘, writing 📖 **
 - 📫 How to reach me: **edu.oellwanger@gmail.com**
 
 ```
